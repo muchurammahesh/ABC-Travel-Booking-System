@@ -3,7 +3,8 @@
 A **Java console-based** application for managing travel bookings, rescheduling, fare calculations, and admin operations without a database — powered by **Core Java** and **Collections API**.
 
 ---
-![Uploading travel.png…]()
+<img width="342" height="147" alt="travel" src="https://github.com/user-attachments/assets/74f2e073-788b-4457-ac1a-bc033a3dc536" />
+
 
 ## 📜 Table of Contents
 - [Overview](#-overview)
